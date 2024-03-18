@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tucil2_10023634_10023457
 
 > Nama : Yudi Kurniawan
