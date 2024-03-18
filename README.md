@@ -55,5 +55,5 @@
 
 > Setelah semua input dimasukkan, program akan menampilkan plot kurva Bezier kuadratik sesuai dengan input yang diberikan.
 
-##Semoga program ini bermanfaat! Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya.
+## Semoga program ini bermanfaat! Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya.
 
