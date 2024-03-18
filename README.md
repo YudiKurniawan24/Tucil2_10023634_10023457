@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tucil2_10023634_10023457
 
 > Nama : Yudi Kurniawan
@@ -57,3 +58,6 @@
 
 ##Semoga program ini bermanfaat! Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya.
 
+=======
+# Tucil2_10023634_10023457
+>>>>>>> 2d6d19dbcf1012dafaae4cbf74d29e02d2bbd8d3
