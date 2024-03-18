@@ -10,6 +10,13 @@
 
 > Program ini digunakan untuk membentuk kurva Bezier kuadratik dengan menggunakan algoritma titik tengah berbasis divide and conquer. Selain itu, program juga menyediakan implementasi algoritma brute force sebagai pembanding.
 
+## Requirement
+
+> Pastikan Anda telah menginstal library Matplotlib sebelum menjalankan program.
+> Program ini hanya mendukung pembentukan kurva Bezier kuadratik.
+> Input yang tidak sesuai dengan batasan akan memicu pesan kesalahan dan meminta input ulang.
+> jika belum insttal dengan `pip install matplotlib`
+
 ## Cara Penggunaan
 
 > 1. Pastikan Anda memiliki Python 3 yang terpasang di sistem Anda.
@@ -47,12 +54,6 @@
 > Masukkan jumlah iterasi: 5
 
 > Setelah semua input dimasukkan, program akan menampilkan plot kurva Bezier kuadratik sesuai dengan input yang diberikan.
-
-## Requirement
-
-> Pastikan Anda telah menginstal library Matplotlib sebelum menjalankan program.
-> Program ini hanya mendukung pembentukan kurva Bezier kuadratik.
-> Input yang tidak sesuai dengan batasan akan memicu pesan kesalahan dan meminta input ulang.
 
 ##Semoga program ini bermanfaat! Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya.
 
